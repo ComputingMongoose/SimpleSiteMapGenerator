@@ -1,0 +1,3 @@
+https://mywebsite/index.html
+https://mywebsite/file1.html
+https://mywebsite/file2.html
