@@ -36,4 +36,12 @@ Sets the default update frequency of files containing the word "index" in the fi
 ### setDefaultPriorityIndex($priority)
 Sets the default priority of files containing the word "index" in the file name. This will be used in the XML sitemap. Example: _setDefaultPriorityIndex("0.8")_.
 
+# Youtube
+
+Checkout my YouTube channel for interesting videos: https://www.youtube.com/@ComputingMongoose/
+
+# Website
+
+Checkout my website: https://ComputingMongoose.github.io
+
 
